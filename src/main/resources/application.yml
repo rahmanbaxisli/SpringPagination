@@ -2,9 +2,9 @@ server:
   port: 8080
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5433/user_pagination
-    username: spring
-    password: paginationFilterSearch
+    url: jdbc:postgresql://localhost:5433/testdb
+    username: admin
+    password: admin
   jpa:
     show-sql: true
   liquibase:

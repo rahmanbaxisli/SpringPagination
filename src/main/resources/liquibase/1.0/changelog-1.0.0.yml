@@ -1,7 +1,7 @@
 databaseChangeLog:
   - changeSet:
       id: Create users table
-      author: Farid Mustafayev
+      author: Rahman Baxisli
       changes:
         - createTable:
             tableName: users
